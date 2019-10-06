@@ -12,12 +12,21 @@
     <favorites_list name="Funcion Cuadratica" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="62" column="52" lean-forward="true" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
             </state>
           </provider>
         </entry>
@@ -31,10 +40,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -42,9 +54,12 @@
         <option value="$PROJECT_DIR$/polinomios/calculos.py" />
         <option value="$PROJECT_DIR$/polinomios/__init__.py" />
         <option value="$PROJECT_DIR$/polinomios/polinomio.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/FuncCuadratica/calc_func_cuadratica.py" />
         <option value="$PROJECT_DIR$/FuncCuadratica/__init__.py" />
         <option value="$PROJECT_DIR$/FuncCuadratica/func_cuadratica.py" />
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
         <option value="$PROJECT_DIR$/Main.py" />
       </list>
     </option>
@@ -55,9 +70,12 @@
     <option name="width" value="1346" />
     <option name="height" value="701" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,6 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="func_cuadratica" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Matematica" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +159,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
     <configuration name="polinomio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Matematica" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +185,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Main" />
+<<<<<<< HEAD
         <item itemvalue="Python.func_cuadratica" />
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
         <item itemvalue="Python.polinomio" />
       </list>
     </recent_temporary>
@@ -180,6 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569678623333</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="second">
       <created>1570399097296</created>
       <option name="number" value="00001" />
@@ -188,6 +213,8 @@
       <updated>1570399097296</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
     <servers />
   </component>
   <component name="TodoView">
@@ -202,29 +229,47 @@
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1366" height="737" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.22230484" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.22230484" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
       <window_info id="Structure" order="1" sideWeight="0.50082374" side_tool="true" weight="0.22230484" />
       <window_info id="Favorites" order="2" sideWeight="0.50082374" side_tool="true" weight="0.22230484" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294893" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3970346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49962825" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
       <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50037175" side_tool="true" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3294893" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second" />
     <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
+=======
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/funcc.py" />
     <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/1544677045/builtins.py">
@@ -238,6 +283,7 @@
     <entry file="file://$PROJECT_DIR$/FuncCuadratica/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
+<<<<<<< HEAD
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
@@ -249,13 +295,21 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+=======
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FuncCuadratica/calc_func_cuadratica.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="315">
           <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+=======
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -264,8 +318,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+        <state relative-caret-position="930">
+          <caret line="62" column="52" lean-forward="true" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+>>>>>>> 066127f5ec33ad126ea6e38c4a8477271c82ac7d
         </state>
       </provider>
     </entry>
