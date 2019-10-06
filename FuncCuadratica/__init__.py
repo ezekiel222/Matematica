@@ -1,0 +1,1 @@
+from FuncCuadratica.func_cuadratica import funcion_cuadratica
